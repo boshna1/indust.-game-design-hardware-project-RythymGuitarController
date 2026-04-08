@@ -6,7 +6,7 @@ KiCad, Fusion CAD, Firmware, Unity Build and Written report can be found in this
 
 Links
 Presentation Video: https://youtu.be/xZbBNlOmOa4
-Fabrication Video: 
+Fabrication Video: https://youtu.be/GbEOGdo4kmM
 Firmware Github: https://github.com/boshna1/zmk-config-guitarControllerFork
 Progression Timeline: https://canva.link/tx23ay8bv33l7fo
 Unity Source Github: https://github.com/boshna1/HardwareDemo
